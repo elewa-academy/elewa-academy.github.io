@@ -1,4 +1,4 @@
-# <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/36629698-eb7ed6d0-1959-11e8-9a78-7acd2652186e.png" width="100" height="50"/></a>'s Open Curriculum
+# Elewa's Open Curriculum
 
 Welcome to our open-source curriculum, we hope this will help you learnstuff. Built on our experience as educators, programming instructors, and researchers it's gotta be good. 
 ### Contents
@@ -33,6 +33,7 @@ These projects are the core of our curriculum.  follow them in order, and use th
 ___
 ## Resources
 This gitbook is full of everything you shoul need to know, or at least a link to it.
+
 [GITBOOK](https://elewa-academy.github.io/General-Resources) - [REPO](https://github.com/elewa-academy/General-Resources)
 
 [TOP](#elewas-open-curriculum)
@@ -40,6 +41,7 @@ This gitbook is full of everything you shoul need to know, or at least a link to
 ___
 ## Class Schedule
 All the things that will happen in class - lectures, events, speakers, exercises, code-alongs.
+
 [GITBOOK](https://elewa-academy.github.io/April-Schedule) - [REPO](https://github.com/elewa-academy/April-Schedule)
 
 [TOP](#elewas-open-curriculum)
@@ -47,13 +49,14 @@ All the things that will happen in class - lectures, events, speakers, exercises
 ___
 ## Code-Alongs
 Finished sourcecode for the projects we will build together in class.
+
 [GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs)
 
 [TOP](#elewas-open-curriculum)
 
 ___
 ## Community
-Everyone is welcome, student or not!  Join our community to learn with us.
+Everyone is welcome, student or not!  Join our community to learn with us.  
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Gitter](https://gitter.im/elewa-academy/Lobby)
 * [GitHub](https://github.com/elewa-academy)
@@ -62,4 +65,4 @@ Everyone is welcome, student or not!  Join our community to learn with us.
 
 ___
 ___
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/36629698-eb7ed6d0-1959-11e8-9a78-7acd2652186e.png" width="100" height="50"/></a>
+### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/36629698-eb7ed6d0-1959-11e8-9a78-7acd2652186e.png" width="100" height="60"/></a>
