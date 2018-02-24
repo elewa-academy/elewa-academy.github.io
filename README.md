@@ -22,7 +22,8 @@ Follow the projects in order
 ___
 ## Projects
 These projects are the core of our curriculum.  follow them in order, and use the resources gitbook as needed. The projects will also provide a list of resources for what you need to learn for that project.
-| Precourse | Frontend | Fullstack | React.js | Final Project |
+
+| Precourse | Frontend | Fullstack | React.js | Final Project |  
 |---|---|---|---|---|
 |Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio! | Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | | Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes! |
 |[GITBOOK](/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)|[GITBOOK](/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects)|[GITBOOK](Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects)||[GITBOOK](/Final-Project-Resources) - [REPO](https://github.com/elewa-academy/Final-Project-Resources)|
