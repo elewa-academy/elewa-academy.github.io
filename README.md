@@ -4,9 +4,9 @@ Welcome to our open-source curriculum, we hope this will help you learnstuff. Bu
 ### Contents
 * [Using This](#using-this)
 * [Projects](#projects)
+* [Code-Alongs](#code-alongs)
 * [Resources](#resources)
 * [Class Schedule](#class-schedule)
-* [Code-Alongs](#code-alongs)
 * [Community](#community)
 
 ___
@@ -32,6 +32,14 @@ These projects are the core of our curriculum.  follow them in order, and use th
 [TOP](#elewas-open-curriculum)
 
 ___
+## Code-Alongs
+Finished sourcecode for the projects we will build together in class.
+
+[GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs)
+
+[TOP](#elewas-open-curriculum)
+
+___
 ## Resources
 This gitbook is full of everything you shoul need to know, or at least a link to it.
 
@@ -44,14 +52,6 @@ ___
 All the things that will happen in class - lectures, events, speakers, exercises, code-alongs.
 
 [GITBOOK](https://elewa-academy.github.io/April-Schedule) - [REPO](https://github.com/elewa-academy/April-Schedule)
-
-[TOP](#elewas-open-curriculum)
-
-___
-## Code-Alongs
-Finished sourcecode for the projects we will build together in class.
-
-[GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs)
 
 [TOP](#elewas-open-curriculum)
 
