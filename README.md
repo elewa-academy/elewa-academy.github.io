@@ -69,7 +69,7 @@ resources for all of the in-class code alongs.  They parallel the projects.
 ## Class Schedule
 All the things that will happen in class - lectures, events, speakers, exercises, code-alongs.
 
-[GITBOOK](https://elewa-academy.github.io/April-Schedule) - [REPO](https://github.com/elewa-academy/April-2018/tree/master/docs_src)
+[GITBOOK](https://elewa-academy.github.io/April-2018) - [REPO](https://github.com/elewa-academy/April-2018/tree/master/docs_src)
 
 [TOP](#elewas-open-curriculum)
 
