@@ -5,8 +5,9 @@ Welcome to our open-source curriculum, we hope this will help you learnstuff. Bu
 * [Using This](#using-this)
 * [Precourse](#pecourse)  
 * [Projects](#projects)
-* [Code-Alongs](#code-alongs)
+* [Capstone](#capstone)
 * [Resources](#resources)
+* [Code-Alongs](#code-alongs)
 * [Class Schedule](#class-schedule)
 * [Community](#community)
 
@@ -25,31 +26,34 @@ ___
 
 Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio!
 
-|[GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)
+[GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)
 
 [TOP](#elewas-open-curriculum)
 ___
 ## Projects
 These projects are the core of our curriculum.  follow them in order, and use the resources gitbook as needed. The projects will also provide a list of resources for what you need to learn for that project.
 
-| Frontend | Fullstack | Final Project |  
-|---|---|---|
-| Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes! |
-|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Final-Project-Resources) - [REPO](https://github.com/elewa-academy/Final-Project-Resources)|
+| Frontend | Fullstack | 
+|---|---|
+| Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | 
+|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)|
 
 
 
 [TOP](#elewas-open-curriculum)
 
 ___
-## Code-Alongs
-Finished sourcecode for the projects we will build together in class.
 
-[GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs)
+## Capstone
+
+Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes!
+
+[GITBOOK](https://elewa-academy.github.io/Capstone-Resources) - [REPO](https://github.com/elewa-academy/Capstone-Resources)
 
 [TOP](#elewas-open-curriculum)
 
 ___
+
 ## Resources
 This gitbook is full of everything you shoul need to know, or at least a link to it.
 
@@ -58,6 +62,20 @@ This gitbook is full of everything you shoul need to know, or at least a link to
 [TOP](#elewas-open-curriculum)
 
 ___
+
+## Code-Alongs
+
+resources for all of the in-class code alongs
+
+| Frontend |  Fullstack  |
+
+| [GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs) |
+
+[TOP](#elewas-open-curriculum)
+
+___
+
+
 ## Class Schedule
 All the things that will happen in class - lectures, events, speakers, exercises, code-alongs.
 
