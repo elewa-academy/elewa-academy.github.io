@@ -11,7 +11,7 @@ Welcome to our open-source curriculum, we hope this will help you learnstuff. Bu
 * [Class Schedule](#class-schedule)
 * [Community](#community)
 
-___
+---
 
 ## Using This
 
@@ -20,7 +20,7 @@ this curriculum does not cover making your code run, it's all about using your c
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 
 ## Precourse
 
@@ -29,7 +29,8 @@ Learn the basics of JS and the other foundational dev tools: browser, text edito
 [GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)
 
 [TOP](#elewas-open-curriculum)
-___
+
+---
 ## Projects
 These projects are the core of our curriculum.  follow them in order, and use the resources gitbook as needed. The projects will also provide a list of resources for what you need to learn for that project.
 
@@ -42,7 +43,7 @@ These projects are the core of our curriculum.  follow them in order, and use th
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 
 ## Capstone
 
@@ -52,7 +53,7 @@ Set yourself apart from the crowd with a project from the heart.  You could buil
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 
 ## Resources
 This gitbook is full of everything you shoul need to know, or at least a link to it.
@@ -61,7 +62,7 @@ This gitbook is full of everything you shoul need to know, or at least a link to
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 
 ## Code-Alongs
 
@@ -73,7 +74,7 @@ resources for all of the in-class code alongs.  They parallel the projects.
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 
 
 ## Class Schedule
@@ -83,7 +84,7 @@ All the things that will happen in class - lectures, events, speakers, exercises
 
 [TOP](#elewas-open-curriculum)
 
-___
+---
 ## Community
 Everyone is welcome!  Join our community and learn with us.  
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
@@ -93,6 +94,6 @@ Everyone is welcome!  Join our community and learn with us.
 
 [TOP](#elewas-open-curriculum)
 
-___
-___
+---
+---
 ### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/36629698-eb7ed6d0-1959-11e8-9a78-7acd2652186e.png" width="100" height="60"/></a>
