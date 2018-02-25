@@ -70,7 +70,7 @@ resources for all of the in-class code alongs.  They parallel the projects.
 
 | Frontend |  Fullstack  |
 |---|---|
-| [GITBOOK](https://elewa-academy.github.io/Frontend-Code-Alongs) - [REPO](https://github.com/elewa-academy/Frontend-Code-Alongs) | [GITBOOK](https://elewa-academy.github.io/Fullstack-Code-Alongs) - [REPO](https://github.com/elewa-academy/Fullstack-Code-Alongs) |
+| [GITBOOK](https://elewa-academy.github.io/Frontend-Code-Alongs) - [REPO](https://github.com/elewa-academy/Frontend-Code-Alongs/tree/master/docs_src) | [GITBOOK](https://elewa-academy.github.io/Fullstack-Code-Alongs) - [REPO](https://github.com/elewa-academy/Fullstack-Code-Alongs/tree/master/docs_src) |
 
 [TOP](#elewas-open-curriculum)
 
