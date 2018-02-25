@@ -3,7 +3,7 @@
 Welcome to our open-source curriculum, we hope this will help you learnstuff. Built on our experience as educators, programming instructors, and researchers it's gotta be good. 
 ### Contents
 * [Using This](#using-this)
-* [Precourse](#pecourse)  
+* [Precourse](#precourse)  
 * [Projects](#projects)
 * [Capstone](#capstone)
 * [Resources](#resources)
@@ -65,11 +65,11 @@ ___
 
 ## Code-Alongs
 
-resources for all of the in-class code alongs
+resources for all of the in-class code alongs.  They parallel the projects.  
 
 | Frontend |  Fullstack  |
-
-| [GITBOOK](https://elewa-academy.github.io/Code-Alongs) - [REPO](https://github.com/elewa-academy/Code-Alongs) |
+|---|---|
+| [GITBOOK](https://elewa-academy.github.io/Frontend-Code-Alongs) - [REPO](https://github.com/elewa-academy/Frontend-Code-Alongs) | [GITBOOK](https://elewa-academy.github.io/Fullstack-Code-Alongs) - [REPO](https://github.com/elewa-academy/Fullstack-Code-Alongs) |
 
 [TOP](#elewas-open-curriculum)
 
