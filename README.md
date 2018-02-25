@@ -3,6 +3,7 @@
 Welcome to our open-source curriculum, we hope this will help you learnstuff. Built on our experience as educators, programming instructors, and researchers it's gotta be good. 
 ### Contents
 * [Using This](#using-this)
+* [Precourse](#pecourse)  
 * [Projects](#projects)
 * [Code-Alongs](#code-alongs)
 * [Resources](#resources)
@@ -19,13 +20,22 @@ this curriculum does not cover making your code run, it's all about using your c
 [TOP](#elewas-open-curriculum)
 
 ___
+
+## Precourse
+
+Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio!
+
+|[GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)
+
+[TOP](#elewas-open-curriculum)
+___
 ## Projects
 These projects are the core of our curriculum.  follow them in order, and use the resources gitbook as needed. The projects will also provide a list of resources for what you need to learn for that project.
 
-| Precourse | Frontend | Fullstack | Final Project |  
-|---|---|---|---|
-|Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio! | Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes! |
-|[GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Final-Project-Resources) - [REPO](https://github.com/elewa-academy/Final-Project-Resources)|
+| Frontend | Fullstack | Final Project |  
+|---|---|---|
+| Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes! |
+|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Final-Project-Resources) - [REPO](https://github.com/elewa-academy/Final-Project-Resources)|
 
 
 
