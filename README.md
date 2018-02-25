@@ -5,7 +5,6 @@ Welcome to our open-source curriculum, we hope this will help you learnstuff. Bu
 * [Using This](#using-this)
 * [Precourse](#precourse)  
 * [Projects](#projects)
-* [Capstone](#capstone)
 * [Resources](#resources)
 * [Code-Alongs](#code-alongs)
 * [Class Schedule](#class-schedule)
@@ -34,22 +33,12 @@ Learn the basics of JS and the other foundational dev tools: browser, text edito
 ## Projects
 These projects are the core of our curriculum.  follow them in order, and use the resources gitbook as needed. The projects will also provide a list of resources for what you need to learn for that project.
 
-| Frontend | Fullstack | 
-|---|---|
-| Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | 
-|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)|
+| Frontend | Fullstack | Capstone |
+|---|---|---|
+| Explore user centered design, clean code, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.| Software development is universal.  No matter what language or framework you use, there are certain principles that will set you apart from the crowd.  Learn these skills using the popular Node.js environment. | Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes! |
+|[GITBOOK](https://elewa-academy.github.io/Frontend-Projects) - [REPO](https://github.com/elewa-academy/Frontend-Projects/tree/master/docs_src)|[GITBOOK](https://elewa-academy.github.io/Fullstack-Projects) - [REPO](https://github.com/elewa-academy/Fullstack-Projects/tree/master/docs_src)| [GITBOOK](https://elewa-academy.github.io/Capstone-Project) - [REPO](https://github.com/elewa-academy/Capstone-Project) |
 
 
-
-[TOP](#elewas-open-curriculum)
-
----
-
-## Capstone
-
-Set yourself apart from the crowd with a project from the heart.  You could build full-stack, go deep into a framework, build your MVP, or even prepare a business plan.  Anything goes!
-
-[GITBOOK](https://elewa-academy.github.io/Capstone-Resources) - [REPO](https://github.com/elewa-academy/Capstone-Resources)
 
 [TOP](#elewas-open-curriculum)
 
