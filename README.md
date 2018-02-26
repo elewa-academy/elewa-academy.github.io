@@ -4,12 +4,11 @@ Welcome to our open-source curriculum, we hope this will help you learnstuff. Bu
 ### Contents
 * [Using This](#using-this) 
 * [Schedule](#schedule)
-* Projects & code Alongs
-	* [Precourse](#precourse) 
-	* [Frontend](#frontend)
-	* [Fullstack](#backend)
-	* [React](#react)
-	* [Capstone](#capstone)
+  1. [Precourse](#precourse) 
+  2. [Frontend](#frontend)
+  3. [Fullstack](#backend)
+  4. [React](#react)
+  5. [Capstone](#capstone)
 * [Resources](#resources)
 * [Community](#community)
 
