@@ -96,7 +96,7 @@ Set yourself apart from the crowd with a project from the heart.  You could buil
 
 This gitbook is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
 
-[GITBOOK](https://elewa-academy.github.io/General-Resources) - [REPO](https://github.com/elewa-academy/General-Resources)
+* [General Resources](https://elewa-academy.github.io/General-Resources) 
 
 [TOP](#elewas-open-curriculum)
 
