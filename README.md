@@ -41,6 +41,31 @@ Unless noted otherwise class will start at 9, we will answer questions from the 
 
 ---
 
+
+## Resources
+
+This gitbook is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
+
+* [General Resources](https://elewa-academy.github.io/General-Resources) 
+
+[TOP](#elewas-open-curriculum)
+
+
+---
+## Community
+
+Everyone is welcome!  Join our community and learn with us.  
+* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
+* [Gitter](https://gitter.im/elewa-academy/Lobby)
+* [GitHub](https://github.com/elewa-academy)
+* [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
+
+[TOP](#elewas-open-curriculum)
+
+---
+# Content
+---
+
 ### Precourse
 
 Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio!
@@ -90,28 +115,6 @@ Set yourself apart from the crowd with a project from the heart.  You could buil
 [TOP](#elewas-open-curriculum)
 
 
----
-
-
-## Resources
-
-This gitbook is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
-
-* [General Resources](https://elewa-academy.github.io/General-Resources) 
-
-[TOP](#elewas-open-curriculum)
-
-
----
-## Community
-
-Everyone is welcome!  Join our community and learn with us.  
-* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
-* [Gitter](https://gitter.im/elewa-academy/Lobby)
-* [GitHub](https://github.com/elewa-academy)
-* [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
-
-[TOP](#elewas-open-curriculum)
 
 ---
 ---
