@@ -1,16 +1,18 @@
 # Elewa's Open Curriculum
 
 Welcome to our open-source curriculum, we hope this will help you learnstuff. Built on our experience as educators, programming instructors, and researchers it's gotta be good. 
-### Contents
+### Meta
 * [Using This](#using-this) 
 * [Schedule](#schedule)
-  1. [Precourse](#precourse) 
-  2. [Frontend](#frontend)
-  3. [Fullstack](#backend)
-  4. [React](#react)
-  5. [Capstone](#capstone)
 * [Resources](#resources)
 * [Community](#community)
+
+### Content
+1. [Precourse](#precourse) 
+2. [Frontend](#frontend)
+3. [Fullstack](#backend)
+4. [React](#react)
+5. [Capstone](#capstone)
 
 ---
 
