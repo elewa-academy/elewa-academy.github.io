@@ -35,7 +35,7 @@ A schedule for your time with us. Code alongs are listed on the days we will run
 
 Unless noted otherwise class will start at 9, we will answer questions from the day before and complete today's code along.  
 
-[GITBOOK](https://elewa-academy.github.io/April-Schedule) - [REPO](https://github.com/elewa-academy/April-Schedule)
+* [Class Schedule](https://elewa-academy.github.io/April-Schedule)
 
 [TOP](#elewas-open-curriculum)
 
@@ -45,7 +45,7 @@ Unless noted otherwise class will start at 9, we will answer questions from the 
 
 Learn the basics of JS and the other foundational dev tools: browser, text editor, terminal, Git, and HTML+CSS.  Turn your GitHub account into the beginning of your professional portfolio!
 
-[GITBOOK](https://elewa-academy.github.io/April-Precourse) - [REPO](https://github.com/elewa-academy/April-Precourse)
+* [Precourse](https://elewa-academy.github.io/April-Precourse)
 
 [TOP](#elewas-open-curriculum)
 
