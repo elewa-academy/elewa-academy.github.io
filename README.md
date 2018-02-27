@@ -11,7 +11,7 @@ Welcome to our open-source curriculum, we hope this is just what you need!
 ### Content
 1. [Precourse](#precourse) 
 2. [Frontend](#frontend)
-3. [Fullstack](#backend)
+3. [Fullstack](#fullstack)
 4. [React](#react)
 5. [Capstone](#capstone)
 
@@ -36,7 +36,7 @@ A schedule for your time with us. Code alongs are listed on the days we will run
 
 Unless noted otherwise class will start at 9, we will answer questions from the day before and complete today's code along.  
 
-* [Class Schedule](https://elewa-academy.github.io/April-Schedule)
+* [Class Schedule](https://elewa-academy.github.io/April-2018)
 
 [TOP](#elewas-open-curriculum)
 
