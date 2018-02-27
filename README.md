@@ -1,9 +1,10 @@
 # Elewa's Open Curriculum
 
-Welcome to our open-source curriculum, we hope this will help you learnstuff. Built on our experience as educators, programming instructors, and researchers it's gotta be good. 
+Welcome to our open-source curriculum, we hope this is just what you need! 
+
 ### Meta
 * [Using This](#using-this) 
-* [Schedule](#schedule)
+* [Schedule](#class-schedule)
 * [Resources](#resources)
 * [Community](#community)
 
@@ -80,7 +81,7 @@ Learn the basics of JS and the other foundational dev tools: browser, text edito
 
 Explore user centered design, clean code, software design, development scheduling, build environments, collaboration and much more. By the end of these projects you will have the skills necessary to dive into the deep end.  
 
-* [Frontend Projects](https://elewa-academy.github.io/Frontend-Code-Alongs) 
+* [Frontend Projects](https://elewa-academy.github.io/Frontend-Projects) 
 * [Frontend Code Alongs](https://elewa-academy.github.io/Frontend-Code-Alongs)
 
 You can access the projects and code alongs directly here or through the class schedule.
@@ -116,6 +117,6 @@ Set yourself apart from the crowd with a project from the heart.  You could buil
 
 
 
----
----
-### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/36629698-eb7ed6d0-1959-11e8-9a78-7acd2652186e.png" width="100" height="60"/></a>
+___
+___
+### <a href="http://elewa.education/blog" target="_blank"><img src="https://user-images.githubusercontent.com/18554853/34921062-506450ae-f97d-11e7-875f-6feeb26ad72d.png" width="100" height="40"/></a>
