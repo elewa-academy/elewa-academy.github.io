@@ -25,7 +25,7 @@ The schedule lines up the projects and the code alongs. To follow this curriculu
 
 To follow the projects and code alongs, we recommend you fork+clone the repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your editor.
 
-Also read through the [Key Resources]() section of our resources gitbook before moving on with the curriculum.  It will help you get you head in the game, and many important study techniques necessary for this curriculum are explained in that section.
+Also read through the [Key Resources](https://elewa-academy.github.io/General-Resources/key-resources/) section of our resources gitbook before moving on with the curriculum.  It will help you get you head in the game, and many important study techniques necessary for this curriculum are explained in that section.
 
 This curriculum does not cover making your code run, it's all about using your code intelligently. the list of general resources will link to external resources for learning syntax (tutorials, examples, documentation), this will be linked to also from projects and code alongs.
 
