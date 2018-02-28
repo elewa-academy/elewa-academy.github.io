@@ -1,6 +1,7 @@
 # Elewa's Open Curriculum
 
 Welcome to our open-source curriculum, we hope this is just what you need! 
+(PSST!! This is still under construction, some understanding please!)
 
 ### Meta
 * [Using This](#using-this) 
