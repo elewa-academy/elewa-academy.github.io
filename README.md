@@ -4,15 +4,15 @@ Welcome to our open curriculum!
 
 It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you should need to complete it.  
 
-The true focus of these projects is how to _use_ code.  Reading sourcecode, testing, application architecture, collaborative development.  Skills like these are usually taught well after the students have begun to master their language.  
+The true focus of these projects is how to _use_ code.  Reading sourcecode, testing, application architecture, collaborative development.  Skills like these are usually taught well after students have begun to master their language.  
 
 From our experience these skills can, and should, be learned at the very beginning of your programming experience.  Programming languages and solving complex problems is hard.  It's not possible to rush learning those skills.  However, the fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  Learning them early will make the rest of your journey so much smoother.  
 
-We've designed our projects to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't distracted by trying to understand the code or the context. 
+We've designed our projects to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries. 
 
-To follow the projects we recommend you fork+clone the repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your editor.
+To follow the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
-If there's something missing or something we can do better, don't hesitate to send a pull request or let us know on Slack!
+Feedback and pull requests welcome!
 
 ### Index
 * [Project Series](#project-series)
@@ -57,6 +57,7 @@ Everyone is welcome!  Join our community and learn with us.
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Gitter](https://gitter.im/elewa-academy/Lobby)
 * [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
+* fullstack@elewa.education
 
 [TOP](#elewas-open-curriculum)
 
