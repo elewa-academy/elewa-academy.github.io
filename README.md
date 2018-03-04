@@ -1,8 +1,6 @@
 # Elewa's Open Curriculum
 
 Welcome to our open-source curriculum, we hope this is just what you need! 
-  
-(PSST!! This is still under construction, some understanding please!)
 
 You can follow the first series of projects [right here](https://elewa-academy.github.io/Fundamentals).  The rest of the curriculum is still under construction.   Hope you like it! 
 
