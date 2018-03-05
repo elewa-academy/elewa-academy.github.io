@@ -4,13 +4,11 @@ Welcome to our open curriculum!
 
 It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you should need to complete it.  
 
-The true focus of these projects is how to _use_ code.  Reading sourcecode, testing, application architecture, collaborative development.  Skills like these are usually taught well after students have begun to master their language.  
+The true focus of these projects is how to think in abstractions, construct solutions, identify separation of concerns, divide work for collaboration, use pseudocode and other visualizations ...  In short, how to _use_ code effectively.  Skills like these are usually taught after students have begun to master their language.  
 
-From our experience these skills can, and should, be learned at the very beginning of your programming experience.  Programming languages and solving complex problems is hard.  It's not possible to rush learning those skills.  However, the fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  Learning them early will make the rest of your journey so much smoother.  
+From our experience and review of the scientific literature we have found that these skills can, and should, be learned at the very beginning of your programming experience. Perhaps even before you master your programming language. The fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  Learning them early will make the rest of your journey so much smoother.  
 
-We've designed our projects to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries. 
-
-To follow the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
+We've designed our projects along these lines to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries.  If you keep this in mind you'll find that you can learn a lot from this curriculum, even if you're stranger to code.
 
 Feedback and pull requests welcome!
 
@@ -23,11 +21,13 @@ Feedback and pull requests welcome!
 
 ## Project Series
 
-These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of software development, skills that transfer between any language or development environment.  
+These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development, skills that transfer between any language or development environment.  
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
 These projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://elewa-academy.github.io/General-Resources), and directly from the projects where you'll use them.
+
+To follow the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
