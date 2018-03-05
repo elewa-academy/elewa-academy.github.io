@@ -6,9 +6,9 @@ It's pretty simple to follow, just complete the projects in order.  Each project
 
 The true focus of these projects is how to think in abstractions, construct solutions, identify separation of concerns, divide work for collaboration, use pseudocode and other visualizations ...  In short, how to _use_ code effectively.  Skills like these are usually taught after students have begun to master their language.  
 
-From our experience and review of the scientific literature we have found that these skills can, and should, be learned at the very beginning of your programming experience. Perhaps even before you master your programming language. The fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  Learning them early will make the rest of your journey so much smoother.  
+From our experience and review of the scientific literature we have learned that these skills can, and should, be learned at the very beginning of your programming experience. Perhaps before you master your programming language. The fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  
 
-We've designed our projects along these lines to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries.  Keep this in mind and you'll find that you can learn a lot from these projects, even if you're no stranger to code.
+We've designed our projects along these lines to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries.  Keep this in mind and you'll find that you can learn a lot from these projects, even if you're no stranger to programming.
 
 Feedback and pull requests welcome!
 
