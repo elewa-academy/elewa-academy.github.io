@@ -29,8 +29,9 @@ These projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any othe
 
 To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
-0. [Precourse](https://elewa-academy.github.io/April-Precourse). 
+0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
+2. Application Design ... coming soon
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
