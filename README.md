@@ -31,7 +31,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. Application Design ... coming soon
+2. Application Design
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
