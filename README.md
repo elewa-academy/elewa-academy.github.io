@@ -31,15 +31,15 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. [Modular Design]()
-3. [Testing]()
-4. [Inheritance & Async]()
-5. [Build Environment]()
-6. [Persistence & APIs]()
-7. [Authentication]()
-8. [Microservices]()
-9. [SPAs & State]()
-10. [Immutable Data]()
+2. Modular Design
+3. Testing
+4. Inheritance & Async
+5. Build Environment
+6. Persistence & APIs
+7. Authentication
+8. Microservices
+9. SPAs & State
+10. Immutable Data
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
