@@ -39,7 +39,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 7. SPAs & Persistence
 8. Authentication
 9. Microservices
-10. SPAs & State
+10. Global & Local State
 11. Immutable Data
 
 Stay tuned for more!  We'll release the next projects as we finish them.
