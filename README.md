@@ -34,12 +34,13 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 2. Modular Design
 3. Testing
 4. Inheritance & Async
-5. Build Environment
-6. Persistence & APIs
-7. Authentication
-8. Microservices
-9. SPAs & State
-10. Immutable Data
+5. Data Modeling & Collaboration
+6. Build Environment
+7. Persistence & APIs
+8. Authentication
+9. Microservices
+10. SPAs & State
+11. Immutable Data
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
