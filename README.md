@@ -35,8 +35,8 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 3. Testing
 4. Inheritance & Async
 5. Data Modeling & Collaboration
-6. Build Environment
-7. Persistence & APIs
+6. Build Environment & APIs
+7. SPAs & Persistence
 8. Authentication
 9. Microservices
 10. SPAs & State
