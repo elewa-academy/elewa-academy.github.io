@@ -67,6 +67,7 @@ Everyone is welcome!  Join our community and learn with us.
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Gitter](https://gitter.im/elewa-academy/Lobby)
 * [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
+* [In-Person Classes](http://elewa.education)
 * fullstack@elewa.education
 
 [TOP](#elewas-open-curriculum)
