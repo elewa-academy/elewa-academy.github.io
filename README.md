@@ -33,7 +33,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
 2. Modular Design
 3. Testing
-4. Inheritance & Async
+4. [Inheritance & Async](https://elewa-academy.github.io/MEGAMODEL)
 5. Data Modeling & Collaboration
 6. Build Environment & APIs
 7. SPAs & Persistence
