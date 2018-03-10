@@ -31,16 +31,17 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. Modular Design
+2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
 3. Testing
-4. [Configurable Modules](https://elewa-academy.github.io/MEGAMODEL)
-5. Data Modeling & Collaboration
-6. Build Environment & APIs
-7. SPAs & Persistence
-8. Authentication
-9. Microservices
-10. Global & Local State
-11. Immutable Data
+4. [NPM Modules](https://elewa-academy.github.io/MEGAMODEL)
+5. Assessment
+6. Data Relationships & Collaboration
+7. Build Environment & APIs
+8. Fullstack & Persistence
+9. Authentication
+10. Microservices
+11. SPAs
+13. Functional Architecture
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
