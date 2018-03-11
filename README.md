@@ -32,8 +32,8 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
 2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
-3. Testing
-4. [NPM Modules](https://elewa-academy.github.io/MEGAMODEL)
+3. [NPM Modules](https://elewa-academy.github.io/MEGAMODEL)
+4. Testing
 5. Assessment
 6. Data Relationships & Collaboration
 7. Build Environment & APIs
