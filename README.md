@@ -34,7 +34,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
 3. TDD
 4. [NPM Modules](https://elewa-academy.github.io/MEGAMODEL)
-5. Data Relationships & Collaboration
+5. [Collaboration & Data Relations](https://elewa-academy.github.io/collaboration/)
 6. Build Environment & APIs
 7. Fullstack & Persistence
 8. Authentication
