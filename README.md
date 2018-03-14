@@ -2,6 +2,8 @@
 
 Welcome to our open curriculum!  
 
+> This site is under active development
+
 It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you should need to complete it.  
 
 The true focus of these projects is how to think in abstractions, construct solutions, identify separation of concerns, divide work for collaboration, use pseudocode and other visualizations ...  In short, how to _use_ code effectively.  Skills like these are usually taught after students have begun to master their language.  
