@@ -4,13 +4,13 @@ Welcome to our open curriculum!
 
 > This site is under active development
 
-It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you should need to complete it.  
+It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you will need to complete it, if anything is missing let us know.  
 
 The true focus of these projects is how to think in abstractions, construct solutions, identify separation of concerns, divide work for collaboration, use pseudocode and other visualizations ...  In short, how to _use_ code effectively.  Skills like these are usually taught after students have begun to master their language.  
 
-From our experience and review of the scientific literature we have learned that these skills can, and should, be learned at the very beginning of your programming experience. Perhaps before you master your programming language. The fundamental skills we cover in this curriculum can be learned effectively even by beginner programmers.  
+From our experience and research we have learned that these skills can, and should, be learned at the very beginning of your programming experience. Perhaps even before you master your programming language! The fundamental skills we cover in this curriculum can be learned effectively programmers of any skill level.  
 
-We've designed our projects along these lines to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, the fundamentals when you aren't also trying to understand complex code and new libraries.  Keep this in mind and you'll find that you can learn a lot from these projects, even if you're no stranger to programming.
+We've designed our projects to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, these collaborative skills when you aren't also trying to understand complex code and new libraries.  Keep this in mind and you'll find that you can learn a lot from these projects, even if you're no stranger to programming.
 
 Feedback and pull requests welcome!
 
