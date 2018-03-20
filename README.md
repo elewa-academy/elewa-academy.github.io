@@ -90,7 +90,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 
 
 
-You can also join us today, no strings attached!
+You can also join our community today:
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
 * [In-Person Classes](http://elewa.education)
