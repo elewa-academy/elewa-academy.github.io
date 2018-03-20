@@ -74,7 +74,7 @@ This gitbook is full of everything you should need to know, or at least a link t
 
 * [General Resources](https://elewa-academy.github.io/General-Resources) 
 
-This gitbook is still a work in progress, not all of the links work and not all of the pages are well organized.  
+> This gitbook is still a work in progress, not all of the links work and not all of the pages are well organized.  
 
 Pull requests welcome!
 
