@@ -1,10 +1,32 @@
-# Elewa's Open Curriculum
+# Welcome to Elewa's Open Curriculum
 
-Welcome to our open curriculum!  
 
-> This site is under active development
+> This site is under active development. Feedback and pull requests welcome!
 
-It's pretty simple to follow, just complete the projects in order.  Each project contains links to the resources you will need to complete it, if anything is missing let us know.  
+
+At Elewa we remember learning to become developers, for some of us it wasn't even a year ago!  It felt like we spent more time finding what we needed to learn and where to learn those skills than we did actually learning them.
+
+Covering the basics of JavaScript wasn't hard, there's hundreds of great resources that teach this.  Learning new libraries, tools or frameworks also wasn't difficult, it seems like every developer is releasing a tutorial for their favorite tools! 
+
+What we found difficult was tying it all together into a unified skill-set. With the great variety of opinions and resources it felt impossible to figure out what was most important, or what we should learn first.  
+
+We've spent the last year talking to employers, developers and students to answer these questions.  What are the most versatile skills for a junior developer?  How can you future-proof yourself?  Can these skills be learned from the very beginning?
+
+This curriculum is our attempt to share what we've learned so you can start with a leg up.  
+
+Happy learning!
+
+### Index
+* [Our Philosophy](#our-philosophy)
+* [Project Series](#project-series)
+* [General Resources](#general-resources)
+* [Community](#community)
+
+___
+
+# Our Philosophy
+
+We believe that no one should have to study alone, and that everyone should have access to quality learning materials. Our instructors have worked hard to embedded their professional experience into the design & delivery of this curriculum, we hope this helps you reach your goals!
 
 The true focus of these projects is how to think in abstractions, construct solutions, identify separation of concerns, divide work for collaboration, use pseudocode and other visualizations ...  In short, how to _use_ code effectively.  Skills like these are usually taught after students have begun to master their language.  
 
@@ -12,12 +34,7 @@ From our experience and research we have learned that these skills can, and shou
 
 We've designed our projects to be as instructive as possible.  The code for these projects is very simple, and this is intentional.  It's much easier to focus on, and learn, these collaborative skills when you aren't also trying to understand complex code and new libraries.  Keep this in mind and you'll find that you can learn a lot from these projects, even if you're no stranger to programming.
 
-Feedback and pull requests welcome!
-
-### Index
-* [Project Series](#project-series)
-* [General Resources](#general-resources)
-* [Community](#community)
+[TOP](#index)
 
 ---
 
