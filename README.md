@@ -16,7 +16,7 @@ This curriculum is our attempt to share what we've learned so you can start with
 
 Happy learning!
 
-- The Elewa Team
+> The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
