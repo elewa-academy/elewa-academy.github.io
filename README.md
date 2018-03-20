@@ -1,4 +1,4 @@
-# Welcome to Elewa's Open Curriculum
+# Welcome to our Open Curriculum
 
 
 > This site is under active development. Feedback and pull requests welcome!
@@ -15,6 +15,8 @@ We've spent the last year talking to employers, developers and students to answe
 This curriculum is our attempt to share what we've learned so you can start with a leg up.  
 
 Happy learning!
+
+- The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
