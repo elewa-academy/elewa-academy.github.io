@@ -1,4 +1,4 @@
-# Welcome to our Open Curriculum
+# Welcome to our Open Curriculum!
 
 
 > This site is under active development. Feedback and pull requests welcome!
