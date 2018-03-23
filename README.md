@@ -84,9 +84,9 @@ Stay tuned for more!  We'll release the next projects as we finish them.
 
 This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
 
-* General Resources
+* [General Resources Wiki](https://github.com/elewa-academy/General-Resources/wiki)
 
-> Coming Soon!
+Feel free to contribute!
 
 
 [TOP](#elewas-open-curriculum)
@@ -94,7 +94,7 @@ This wiki is full of everything you should need to know, or at least a link to i
 ---
 ## Community
 
-Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and email and we'll get back to within a week: 
+Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and email and we'll get back to within a week.
 
 
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
