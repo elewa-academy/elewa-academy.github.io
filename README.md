@@ -61,15 +61,18 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
-3. Stateless Frontend
-4. TDD
-5. [Collaboration 1](https://elewa-academy.github.io/collaboration/)
-6. [Design Patterns](https://elewa-academy.github.io/MEGAMODEL)
-7. Async Programming
-8. Stateful Fullstack
-9. Collaboration 2
-10. React.js
+2. Modular Design
+3. Collaboration
+4. CRUD & Services
+5. Stateless Frontend
+6. BDD 
+7. Design Patterns
+8. Group Project 
+9. Advanced Async
+10. Stateful Frontend
+11. Final Project
+
+
 
 Stay tuned for more!  We'll release the next projects as we finish them.
 
@@ -79,13 +82,12 @@ Stay tuned for more!  We'll release the next projects as we finish them.
 
 ## General Resources
 
-This gitbook is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
+This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
 
-* [General Resources](https://elewa-academy.github.io/General-Resources) 
+* General Resources
 
-> This gitbook is still a work in progress, not all of the links work and not all of the pages are well organized.  
+> Coming Soon!
 
-Pull requests welcome!
 
 [TOP](#elewas-open-curriculum)
 
