@@ -94,17 +94,13 @@ This wiki is full of everything you should need to know, or at least a link to i
 ---
 ## Community
 
-Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Send us an email and we'll get back to within a week: 
-
-> fullstack@elewa.education.
+Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and email and we'll get back to within a week: 
 
 
-
-
-You can also join our community today:
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
-* [Wiki](https://github.com/elewa-academy/elewa-academy.github.io/wiki)
+* [Gitter](https://gitter.im/elewa-academy)
 * [In-Person Classes](http://elewa.education)
+* fullstack@elewa.education
 
 
 [TOP](#elewas-open-curriculum)
