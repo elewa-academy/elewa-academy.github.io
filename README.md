@@ -74,7 +74,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 
 
-Stay tuned for more!  We'll release the next projects as we finish them.
+> Stay tuned for more!  We'll release more projects as we finish moving them to GitHub.
 
 [TOP](#elewas-open-curriculum)
 
