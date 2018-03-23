@@ -55,7 +55,7 @@ These carefully designed projects are the core of our curriculum.  If you study 
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
-These projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://elewa-academy.github.io/General-Resources), and directly from the projects where you'll use them.
+These projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](), and directly from the projects where you'll use them.
 
 To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
