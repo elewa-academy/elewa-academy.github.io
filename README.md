@@ -28,7 +28,7 @@ ___
 
 ## Our Philosophy
 
-We believe that no one should have to study alone, and that everyone should have access to quality learning materials. Our instructors have worked hard to embedded their professional experience into the design & delivery of this curriculum, we hope this helps you reach your goals!
+We believe that no one should have to study alone, and that everyone should have access to quality, open learning materials. Our instructors have worked hard to embed their professional experience into the design & delivery of this curriculum, we hope this helps you reach your goals!
 
 ### Project Emphasis
 
