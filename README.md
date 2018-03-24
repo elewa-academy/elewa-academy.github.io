@@ -61,7 +61,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 0. [Precourse](https://elewa-academy.github.io/April-Precourse)
 1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. Modular Design
+2. [Modular Design](https://elewa-academy.github.io/Modular-Design)
 3. Collaboration
 4. CRUD & Services
 5. Stateless Frontend
