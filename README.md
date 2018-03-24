@@ -68,8 +68,8 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 6. BDD 
 7. Design Patterns
 8. Group Project 
-9. Advanced Async
-10. Stateful Frontend
+9. Statefull Frontend
+10. Advanced Async
 11. Final Project
 
 
