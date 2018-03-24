@@ -74,7 +74,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 
 
-> Stay tuned for more!  We'll release more projects as we finish moving them to GitHub.
+> Stay tuned!  We'll release more projects as we finish moving them to GitHub.
 
 [TOP](#welcome-to-our-open-curriculum)
 
@@ -94,12 +94,13 @@ Feel free to contribute!
 ---
 ## Community
 
-Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and email and we'll get back to within a week.
+Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and we'll get back to within a week.
 
 
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Gitter](https://gitter.im/elewa-academy)
-* [In-Person Classes](http://elewa.education)
+* [April Cohort](https://elewa-academy.github.io/April-2018/)
+* [Our Website](http://elewa.education)
 * fullstack@elewa.education
 
 
