@@ -40,12 +40,12 @@ We've designed our projects to be as instructive as possible.  The code for thes
 
 ### GitHub as a Learning Environment
 
-Many of our projects require you to work directly with Git & GitHub completing finished repositories to showcase your work.  At times this may feel like a lot of extra work, but stick with it! We have intentionally designed our course to be this way.  
+All of our projects require you to work directly with Git & GitHub, completing finished repositories to showcase your work.  At times this may feel like a lot of extra work, but stick with it! We have intentionally designed our course to be this way.  
 
 A common difficulty for new developers is transferring their skills from friendly, guided learning environments (videos, integrated code execution, quick tips) to real development contexts.  By interacting with our curriculum in a professional development environment (Git/Hub, Terminal, Editor, Browser) you are building fluency with the tools of the trade as a natural part of your learning process. 
 
 
-[TOP](#index)
+[TOP](#)
 
 ---
 
@@ -76,7 +76,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 > Stay tuned for more!  We'll release more projects as we finish moving them to GitHub.
 
-[TOP](#elewas-open-curriculum)
+[TOP](#)
 
 ---
 
@@ -89,7 +89,7 @@ This wiki is full of everything you should need to know, or at least a link to i
 Feel free to contribute!
 
 
-[TOP](#elewas-open-curriculum)
+[TOP](#)
 
 ---
 ## Community
@@ -103,7 +103,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 * fullstack@elewa.education
 
 
-[TOP](#elewas-open-curriculum)
+[TOP](#)
 
 
 ___
