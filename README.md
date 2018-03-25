@@ -82,7 +82,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 ## General Resources
 
-This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  
+This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to coding resources, to interview preparation & job search.  
 
 * [General Resources Wiki](https://github.com/elewa-academy/General-Resources/wiki)
 
