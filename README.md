@@ -51,7 +51,7 @@ A common difficulty for new developers is transferring their skills from friendl
 
 ## Project Series
 
-These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development, skills that transfer between any language or development environment.  
+These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
@@ -82,7 +82,7 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 ## General Resources
 
-This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  But don't worry about reading it all at once, the projects and code alongs will link you to the relevant pages. 
+This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to interview preparation tips.  
 
 * [General Resources Wiki](https://github.com/elewa-academy/General-Resources/wiki)
 
@@ -100,7 +100,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
 * [Gitter](https://gitter.im/elewa-academy)
 * [April Cohort](https://elewa-academy.github.io/April-2018/)
-* [Our Website](http://elewa.education)
+* [Elewa's Website](http://elewa.education)
 * fullstack@elewa.education
 
 
