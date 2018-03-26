@@ -20,7 +20,7 @@ Happy learning!
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [No-Stack Node.js](#no-stack-node.js)
+* [No-Stack Node](#no-stack-node)
 * [General Resources](#general-resources)
 * [Community](#community)
 
@@ -49,7 +49,7 @@ A common difficulty for new developers is transferring their skills from friendl
 
 ---
 
-## No-Stack Node.js
+## No-Stack Node
 
 These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
 
