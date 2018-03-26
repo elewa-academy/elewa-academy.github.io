@@ -51,7 +51,7 @@ A common difficulty for new developers is transferring their skills from friendl
 
 ## No-Stack Node
 
-These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
+These carefully designed projects form the core of our Software Development curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
