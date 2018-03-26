@@ -20,7 +20,7 @@ Happy learning!
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [No-Stack Node.js](#no-stack-node-js)
+* [No-Stack Node.js](#no-stack-node.js)
 * [General Resources](#general-resources)
 * [Community](#community)
 
