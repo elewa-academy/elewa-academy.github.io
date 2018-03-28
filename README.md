@@ -24,7 +24,7 @@ The Elewa Team
     * [Precourse](#pre-requisites)
     * [The Essentials](#the-essentials)
     * [Full-Stack](#full-stack)
-    * [React](#react)
+    * [Front End Apps](#front-end-apps)
     * [Final Project](#final-project)
 * [General Resources](#general-resources)
 * [Community](#community)
@@ -109,9 +109,12 @@ Take a deep dive into designing and building fullstack applications.
 
 [TOP](#index)
 
-### React
+### Front End Apps
 
-So hot right now.
+Find out how to design front end apps using Funtional Programming and Immutable Data.
+
+* Hyperapp
+* React/Redux
 
 [TOP](#index)
 
