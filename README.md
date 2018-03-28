@@ -21,7 +21,7 @@ The Elewa Team
 ### Index
 * [Our Philosophy](#our-philosophy)
 * [The Curriculum](#the-curriculum)
-    * [Pre-Requisites](#pre-requisites)
+    * [Precourse](#pre-requisites)
     * [The Essentials](#the-essentials)
     * [Full-Stack](#full-stack)
     * [React](#react)
@@ -72,16 +72,17 @@ To study the projects we recommend you fork+clone the project repos.  This will 
 
 > Stay tuned!  We'll release more projects as we finish moving them to GitHub.
 
-### Pre-Requisites
+### Precourse
 
 Get all the little stuff out of the way first. Once you're comfortable with JavaScript and have a live Gh-Pages Portfolio, you're ready to move on to The Essentials.
 
-* Being a Developer
-* Installations
-* The Internet
-* JavaScript
-* Gh-Pages Portfolio
-* JavaScript 30
+* [Precourse GitBook](https://elewa-academy.github.io/Precourse/)
+  1. Being a Developer
+  2. The Internet
+  3. JS, HTML & CSS
+  4. Installations
+  5. Publish your Portfolio
+  6. JavaScript 30
 
 [TOP](#index)
 
