@@ -61,7 +61,8 @@ Coding is not about code.  Coding is ...
     * A cognitive tool
     * Practical problem solving
 ```
-These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
+
+These carefully designed projects form the core of our Software Development curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  You won't learn any particular framework in depth. Instead, you will explore the fundamental design principles behind popular frameworks while building your own full-stack application fron scratch using Vanilla JavaScript.
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
