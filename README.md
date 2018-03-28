@@ -110,7 +110,7 @@ Take a deep dive into designing and building fullstack applications.
 
 ### React
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKAu263CZXUiqD81TaihqEgGVrRoOVrLEQauh7gsAQYcj4B-biA)
+So hot right now.
 
 [TOP](#index)
 
