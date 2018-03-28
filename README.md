@@ -1,4 +1,4 @@
-# Welcome to our Open-Source Bootcamp!
+# The Open-Source Bootcamp
 
 
 > This site is under active development. Feedback and pull requests welcome
