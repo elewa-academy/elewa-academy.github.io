@@ -1,7 +1,7 @@
-# Welcome to our Open Curriculum!
+# Welcome to our Open-Source Bootcamp!
 
 
-> This site is under active development. Feedback and pull requests welcome!
+> This site is under active development. Feedback and pull requests welcome
 
 
 At Elewa we remember learning to become developers, for some of us it wasn't even a year ago!  It felt like we spent more time finding what we needed to learn and where to learn those skills than we did actually learning them.
@@ -16,11 +16,16 @@ This curriculum is our attempt to share what we've learned so you can start with
 
 Happy learning!
 
-> The Elewa Team
+The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [No-Stack Node.js](#no-stack-node-js)
+* [The Curriculum](#the-curriculum)
+    * [Pre-Requisites](#pre-requisites)
+    * [The Essentials](#the-essentials)
+    * [Full-Stack](#full-stack)
+    * [React](#react)
+    * [Final Project](#final-project)
 * [General Resources](#general-resources)
 * [Community](#community)
 
@@ -45,37 +50,75 @@ All of our projects require you to work directly with Git & GitHub, completing f
 A common difficulty for new developers is transferring their skills from friendly, guided learning environments (videos, integrated code execution, quick tips) to real development contexts.  By interacting with our curriculum in a professional development environment (Git/Hub, Terminal, Editor, Browser) you are building fluency with the tools of the trade as a natural part of your learning process. 
 
 
-[TOP](#welcome-to-our-open-curriculum)
+[TOP](#index)
 
 ---
 
-## No-Stack Node.js
-
+## The Curriculum
+```
+Coding is not about code.  Coding is ...
+    * Communication
+    * A cognitive tool
+    * Practical problem solving
+```
 These carefully designed projects are the core of our curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  
 
 Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
 
-These projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://github.com/elewa-academy/General-Resources/wiki), and directly from the projects where you'll use them.
+Our projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://github.com/elewa-academy/General-Resources/wiki), and directly from the projects where you'll need them.
 
 To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
 
-0. [Precourse](https://elewa-academy.github.io/April-Precourse)
-1. [Fundamentals](https://elewa-academy.github.io/Fundamentals)
-2. Collaboration
-3. Modular Design
-4. Portable Services
-5. Stateless Frontend
-6. BDD 
-7. Design Patterns
-8. Group Project 
-9. Statefull Frontend
-10. Final Project
-
-
-
 > Stay tuned!  We'll release more projects as we finish moving them to GitHub.
 
-[TOP](#welcome-to-our-open-curriculum)
+### Pre-Requisites
+
+Get all the little stuff out of the way first. Once you're comfortable with JavaScript and have a live Gh-Pages Portfolio, you're ready to move on to The Essentials.
+
+* Being a Developer
+* Installations
+* The Internet
+* JavaScript
+* Gh-Pages Portfolio
+* JavaScript 30
+
+[TOP](#index)
+
+### The Essentials
+
+Prepare yourself for success by establing strong study habits, learning to read & use code, understanding application desing, and master human-centered development.
+
+* [Fundamentals](https://elewa-academy.github.io/Fundamentals/)
+* Collaboration
+
+[TOP](#index)
+
+### Full Stack
+
+Take a deep dive into designing and building fullstack applications.
+
+1. Modular Design
+2. Portable Services
+3. Stateless Frontend
+4. Design Patterns
+5. Statefull Frontend
+6. BDD 
+7. Group Project 
+
+[TOP](#index)
+
+### React
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXKAu263CZXUiqD81TaihqEgGVrRoOVrLEQauh7gsAQYcj4B-biA)
+
+[TOP](#index)
+
+### Final Project
+
+Dive deep into your interests to set yourself appart.  Plan and build a project of your own. Maybe it's an app, maybe it's a business, maybe it's your own open community.  
+
+
+[TOP](#index)
 
 ---
 
@@ -88,7 +131,7 @@ This wiki is full of everything you should need to know, or at least a link to i
 Feel free to contribute!
 
 
-[TOP](#welcome-to-our-open-curriculum)
+[TOP](#index)
 
 ---
 ## Community
@@ -103,7 +146,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 * fullstack@elewa.education
 
 
-[TOP](#welcome-to-our-open-curriculum)
+[TOP](#index)
 
 
 ___
