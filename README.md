@@ -103,7 +103,7 @@ Take a deep dive into designing and building fullstack applications.
 2. Portable Services
 3. Stateless Frontend
 4. Design Patterns
-5. Statefull Frontend
+5. Fullstack
 6. BDD 
 7. Group Project 
 
