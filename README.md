@@ -88,7 +88,7 @@ Get all the little stuff out of the way first. Once you're comfortable with Java
 
 ### The Essentials
 
-Prepare yourself for success by establing strong study habits, learning to read & use code, understanding application desing, and master human-centered development.
+Prepare yourself for success by establing strong study habits, learning to read & use code, understanding application desing, and mastering human-centered development.
 
 * [Fundamentals](https://elewa-academy.github.io/Fundamentals/)
 * Collaboration
