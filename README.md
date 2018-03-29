@@ -145,10 +145,14 @@ Our mission is to make learning open and collaborative. If you are interested in
 
 
 * [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
-* [Digityser (Classroom)](https://digityser.org)
 * [Elewa's Website](http://elewa.education)
 * fullstack@elewa.education
 * [Review us CourseReport!](https://www.coursereport.com/schools/elewa-education)
+
+### Partners
+
+* [StartIt.be](http://startit.be)
+* [Digityser](https://digityser.org)
 
 
 [TOP](#index)
