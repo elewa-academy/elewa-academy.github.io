@@ -152,7 +152,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 ### Partners
 
 
-| <a href="http://digityser.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/944861444067258368/jrQm1lbM_400x400.jpg" width="100" height="100"/></a>  | <a href="http://startit.be/" target="_blank"><img src="https://cdn.uc.assets.prezly.com/e2e80591-28ed-4a1a-843b-298a3c81add7/-/preview/600x600/-/quality/best/" width="100" height="100"/></a>
+| <a href="http://digityser.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/944861444067258368/jrQm1lbM_400x400.jpg" width="50" height="50"/></a>  | <a href="http://startit.be/" target="_blank"><img src="https://cdn.uc.assets.prezly.com/e2e80591-28ed-4a1a-843b-298a3c81add7/-/preview/600x600/-/quality/best/" width="50" height="50"/></a>
 |---|---|
 
 [TOP](#index)
