@@ -20,14 +20,9 @@ The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [The Curriculum](#the-curriculum)
-  * [Precourse](#pre-requisites)
-  * [The Essentials](#the-essentials)
-  * [Full-Stack](#full-stack)
-  * [Front End Apps](#front-end-apps)
-  * [Final Project](#final-project)
-* [Micro Projects](#micro-projects)
-* [General Resources](#general-resources)
+* [The Curriculum](./curriculum.md)
+* [Micro Projects](https://elewa-academy.github.io/micro-projects)
+* [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Community](#community)
 
 ___
@@ -53,106 +48,10 @@ A common difficulty for new developers is transferring their skills from friendl
 
 [TOP](#the-open-source-bootcamp)
 
----
 
-## The Curriculum
-```
-Coding is not about code.  Coding is ...
-    * Communication
-    * A cognitive tool
-    * Practical problem solving
-```
-
-These carefully designed projects form the core of our Software Development curriculum.  If you study them as recommended you will learn the fundamentals of programming & software development.  Skills that transfer between any language or development environment.  You won't learn any particular framework in depth. Instead, you will explore the fundamental design principles behind popular frameworks while building your own full-stack application fron scratch using Vanilla JavaScript.
-
-Each project is meant to be just a starting point.  After you've finished the requirements and you've understood the main learning objectives, take the simple base provided and make it something awesome.
-
-Our projects do not cover the basics of JavaScript, DOM, HTML/CSS, or any other popular framework or library.  There are already thousands of great places to learn those things.  We link to our favorites in [General Resources](https://github.com/elewa-academy/General-Resources/wiki), and directly from the projects where you'll need them.
-
-To study the projects we recommend you fork+clone the project repos.  This will allow you to take notes, study sourcecode, and modify samples directly from your computer.
-
-> Stay tuned!  We'll release more projects as we finish moving them to GitHub.
-
-### Precourse
-
-Get all the little stuff out of the way first. Once you're comfortable with JavaScript and have a live Gh-Pages Portfolio, you're ready to move on to The Essentials.
-
-* [Precourse GitBook](https://elewa-academy.github.io/Precourse/)
-  1. Being a Developer
-  2. The Internet
-  3. JS, HTML & CSS
-  4. Installations
-  5. Publish your Portfolio
-  6. JavaScript 30
-
-[TOP](#the-open-source-bootcamp)
-
-### The Essentials
-
-Prepare yourself for success by establing strong study habits, learning to read & use code, understanding application desing, and mastering human-centered development.
-
-* [Fundamentals](https://elewa-academy.github.io/Fundamentals/)
-* Collaboration
-
-[TOP](#the-open-source-bootcamp)
-
-### Full Stack
-
-Take a deep dive into designing and building fullstack applications.
-
-1. Modular Design
-2. Portable Services
-3. Stateless Frontend
-4. Design Patterns
-5. Fullstack
-6. BDD 
-7. Group Project 
-
-[TOP](#the-open-source-bootcamp)
-
-### Front End Apps
-
-Find out how to design front end apps using Funtional Programming and Immutable Data.
-
-* Hyperapp
-* React/Redux
-
-[TOP](#the-open-source-bootcamp)
-
-### Final Project
-
-Dive deep into your interests to set yourself appart.  Plan and build a project of your own. Maybe it's an app, maybe it's a business, maybe it's your own open community.  
-
-
-[TOP](#the-open-source-bootcamp)
 
 ---
 
-## Micro Projects
-
-Little projects you can finish in 45 minutes or less.
-
-Make every minute count!
-
-* [Micro Projects](https://elewa-academy.github.io/micro-projects/)
-
-
-[TOP](#the-open-source-bootcamp)
-
-___
-
-## General Resources
-
-This wiki is full of everything you should need to know, or at least a link to it.  Your one-stop shop for everything from learning and study tips to coding resources, to interview preparation & job search.  
-
-* [General Resources Wiki](https://github.com/elewa-academy/General-Resources/wiki)
-
-Feel free to contribute!
-
-
-[TOP](#the-open-source-bootcamp)
-
----
 ## Community
 
 Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and we'll get back to you within a week.
