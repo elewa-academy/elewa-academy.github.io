@@ -9,7 +9,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 * [Elewa Home](./README.md)
 
 
-### Locations
+### Study Groups
 
 * Brussels: 
   * [Weekly Meetup](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
