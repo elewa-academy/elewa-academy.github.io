@@ -23,7 +23,7 @@ The Elewa Team
 * [The Curriculum](./curriculum.md)
 * [Micro Projects](https://elewa-academy.github.io/micro-projects)
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
-* [Community](#community)
+* [Community](./community.md)
 
 ___
 
@@ -48,34 +48,6 @@ A common difficulty for new developers is transferring their skills from friendl
 
 [TOP](#the-open-source-bootcamp)
 
-
-
----
-
-## Community
-
-Our mission is to make learning open and collaborative. If you are interested in setting up your own Meetup or study group around this curriculum we would love to help out!  Get in touch with us and we'll get back to you within a week.
-
-
-* [Slack](https://join.slack.com/t/elewa-academy/shared_invite/enQtMjk4OTA3OTM1NjIwLTA2ZmQ0NDVhNjQxZWM2NjNhNmMyNmVhZGNhZmJmZTY1OWQ4Nzc0ZTkzZGE3NjdiYTYwYThlNzI3YTg2NGM5MGM)
-* [Elewa's Website](http://elewa.education)
-* fullstack@elewa.education
-* [Review us CourseReport!](https://www.coursereport.com/schools/elewa-education)
-
-
-### Locations
-
-* Brussels: [Weekly Meetup](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
-
-
-### Partners
-
-
-
-| <a href="http://digityser.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/944861444067258368/jrQm1lbM_400x400.jpg" width="50" height="50"/></a>  | <a href="http://startit.be/" target="_blank"><img src="https://cdn.uc.assets.prezly.com/40d9abdb-4857-44d3-a356-0929bc019bc2/-/preview/1108x1108/" width="38" height="50"/></a> |
-
-
-[TOP](#the-open-source-bootcamp)
 
 
 ___
