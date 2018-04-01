@@ -21,11 +21,12 @@ The Elewa Team
 ### Index
 * [Our Philosophy](#our-philosophy)
 * [The Curriculum](#the-curriculum)
-    * [Precourse](#pre-requisites)
-    * [The Essentials](#the-essentials)
-    * [Full-Stack](#full-stack)
-    * [Front End Apps](#front-end-apps)
-    * [Final Project](#final-project)
+  * [Precourse](#pre-requisites)
+  * [The Essentials](#the-essentials)
+  * [Full-Stack](#full-stack)
+  * [Front End Apps](#front-end-apps)
+  * [Final Project](#final-project)
+* [Micro Projects](#micro-projects)
 * [General Resources](#general-resources)
 * [Community](#community)
 
@@ -50,7 +51,7 @@ All of our projects require you to work directly with Git & GitHub, completing f
 A common difficulty for new developers is transferring their skills from friendly, guided learning environments (videos, integrated code execution, quick tips) to real development contexts.  By interacting with our curriculum in a professional development environment (Git/Hub, Terminal, Editor, Browser) you are building fluency with the tools of the trade as a natural part of your learning process. 
 
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ---
 
@@ -84,7 +85,7 @@ Get all the little stuff out of the way first. Once you're comfortable with Java
   5. Publish your Portfolio
   6. JavaScript 30
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ### The Essentials
 
@@ -93,7 +94,7 @@ Prepare yourself for success by establing strong study habits, learning to read 
 * [Fundamentals](https://elewa-academy.github.io/Fundamentals/)
 * Collaboration
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ### Full Stack
 
@@ -107,7 +108,7 @@ Take a deep dive into designing and building fullstack applications.
 6. BDD 
 7. Group Project 
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ### Front End Apps
 
@@ -116,16 +117,29 @@ Find out how to design front end apps using Funtional Programming and Immutable 
 * Hyperapp
 * React/Redux
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ### Final Project
 
 Dive deep into your interests to set yourself appart.  Plan and build a project of your own. Maybe it's an app, maybe it's a business, maybe it's your own open community.  
 
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ---
+
+## Micro Projects
+
+Little projects you can finish in 45 minutes or less.
+
+Make every minute count!
+
+* [Micro Projects](https://elewa-academy.github.io/micro-projects/)
+
+
+[TOP](#the-open-source-bootcamp)
+
+___
 
 ## General Resources
 
@@ -136,7 +150,7 @@ This wiki is full of everything you should need to know, or at least a link to i
 Feel free to contribute!
 
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 ---
 ## Community
@@ -156,7 +170,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 | <a href="http://digityser.org/" target="_blank"><img src="https://pbs.twimg.com/profile_images/944861444067258368/jrQm1lbM_400x400.jpg" width="50" height="50"/></a>  | <a href="http://startit.be/" target="_blank"><img src="https://cdn.uc.assets.prezly.com/40d9abdb-4857-44d3-a356-0929bc019bc2/-/preview/1108x1108/" width="38" height="50"/></a> |
 
 
-[TOP](#index)
+[TOP](#the-open-source-bootcamp)
 
 
 ___
