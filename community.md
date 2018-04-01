@@ -11,9 +11,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 
 ### Study Groups
 
-* Brussels: 
-  * [Weekly Meetup](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
-  * [April Full-Time Cohort](https://april-2018-elewa-academy.github.io)
+* Brussels: [Weekly Meetup](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
 
 
 ### Partners
