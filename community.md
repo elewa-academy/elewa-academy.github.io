@@ -11,7 +11,7 @@ Our mission is to make learning open and collaborative. If you are interested in
 
 ### Study Groups
 
-* Brussels: [Weekly Meetup](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
+* Digityser, Brussels: [Home Page](https://elewa-academy.github.io/digityser/), [Eventbrite](https://www.eventbrite.co.uk/e/javascript-open-bootcamp-tickets-44723878324)
 
 
 ### Partners
