@@ -51,6 +51,7 @@ ___
 Prepare yourself for success by establing strong study habits, learning to read & use code, understanding application desing, and mastering human-centered development.
 
 * [Fundamentals](https://elewa-academy.github.io/Fundamentals/)
+* [Solution Design](https://elewa-academy.github.io/Solution-Design/)
 * Collaboration
 
 [TOP](#the-curriculum)
