@@ -62,21 +62,18 @@ ___
 
 Take a deep dive into designing and building fullstack applications.
 
-1. Modular Design
-2. Portable Services
-3. Stateless Frontend
-4. Design Patterns
-5. Fullstack
-6. BDD 
-7. Group Project 
+1. [Modular Design](https://elewa-academy.github.io/Modular-Design)
+2. [API's](https://elewa-academy.github.io/APIs)
+3. [Front End Apps](https://elewa-academy.github.io/Front-End-Apps)
+4. Fullstack
+5. [NPM Modules](https://elewa-academy.github.io/NPM-Modules)
+6. Advanced Async
 
 [TOP](#the-curriculum)
 
 ___
 
-## Front End Apps
-
-Find out how to design front end apps using Funtional Programming and Immutable Data.
+## Front End Libraries
 
 * Hyperapp
 * React/Redux
