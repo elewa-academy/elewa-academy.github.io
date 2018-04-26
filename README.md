@@ -20,7 +20,7 @@ The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [The Curriculum](#./curriculum.md)
+* [The Curriculum](./curriculum.md)
 * [Micro Projects](https://elewa-academy.github.io/micro-projects)
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Community](./community.md)
