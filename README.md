@@ -20,7 +20,7 @@ The Elewa Team
 
 ### Index
 * [Our Philosophy](#our-philosophy)
-* [The Curriculum](#the-elewa-community)
+* [The Curriculum](#./curriculum.md)
 * [Micro Projects](https://elewa-academy.github.io/micro-projects)
 * [General Resources](https://github.com/elewa-academy/General-Resources/wiki)
 * [Community](./community.md)
@@ -30,6 +30,11 @@ ___
 ## Our Philosophy
 
 We believe that no one should have to study alone, and that everyone should have access to quality, open learning materials. Our instructors have worked hard to embed their professional experience into the design & delivery of this curriculum, we hope this helps you reach your goals!
+
+### What is CS?
+
+
+Modern computer science and IT technology is a continuation of the much older tradition of technological innovation being applied to real-life challenges.  Almost every great leap in computation has been made as a step towards or as a tool a solution for some real-life challenge.  Computer science should not be taught as a collection of tools and methods, but as the mind-set and solution processes that originally gave rise to.  
 
 ### Project Emphasis
 
