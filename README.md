@@ -46,7 +46,7 @@ We've designed our projects to be as instructive as possible.  The code for thes
 
 ### GitHub as a Learning Environment
 
-All of our projects require you to work directly with Git & GitHub, completing finished repositories to showcase your work.  At times this may feel like a lot of extra work, but stick with it! We have intentionally designed our course to be this way.  
+All of our projects require you to work directly out of the professional development environment (Git & GitHub, terminal, browser, editor), completing finished repositories to showcase your work.  At times this may feel like a lot of extra work, but stick with it! We have intentionally designed our course to be this way.  
 
 A common difficulty for new developers is transferring their skills from friendly, guided learning environments (videos, integrated code execution, quick tips) to real development contexts.  By interacting with our curriculum in a professional development environment (Git/Hub, Terminal, Editor, Browser) you are building fluency with the tools of the trade as a natural part of your learning process. 
 
