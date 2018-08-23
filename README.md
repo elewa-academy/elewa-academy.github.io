@@ -50,6 +50,10 @@ All of our projects require you to work directly out of the professional develop
 
 A common difficulty for new developers is transferring their skills from friendly, guided learning environments (videos, integrated code execution, quick tips) to real development contexts.  By interacting with our curriculum in a professional development environment (Git/Hub, Terminal, Editor, Browser) you are building fluency with the tools of the trade as a natural part of your learning process. 
 
+### The Stack
+
+[Vanilla.js](http://vanilla-js.com)
+
 
 [TOP](#the-open-source-bootcamp)
 
