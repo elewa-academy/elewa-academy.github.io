@@ -1,7 +1,9 @@
+> This organization is no longer maintained. check out [janke learning](https://janke-learning.github.io)
+
+
 # The Open-Source Bootcamp
 
 
-> This site is under active development. Feedback and pull requests welcome
 
 
 At Elewa we remember learning to become developers, for some of us it wasn't even a year ago!  It felt like we spent more time finding what we needed to learn and where to learn those skills than we did actually learning them.
