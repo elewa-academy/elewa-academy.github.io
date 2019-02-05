@@ -1,4 +1,4 @@
-> This organization is no longer maintained. check out [janke learning](https://janke-learning.github.io)
+> This organization is no longer maintained. check out [janke learning](https://github.com/janke-learning)
 
 
 # The Open-Source Bootcamp
